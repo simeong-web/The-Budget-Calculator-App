@@ -258,10 +258,10 @@ h2 {
     display: none;
 }
 
-.item__delete--btn:focus { outline: none; }
-.item__delete--btn:active { transform: translateY(2px); }
+.item__delete__btn:focus { outline: none; }
+.item__delete__btn:active { transform: translateY(2px); }
 
-.item:hover .item__delete--btn { display: block; }
+.item:hover .item__delete__btn { display: block; }
 .item:hover .item__value { transform: translateX(-20px); }
 .item:hover .item__percentage { transform: translateX(-20px); }
 
