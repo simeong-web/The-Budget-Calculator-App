@@ -247,7 +247,7 @@ h2 {
     float: left;
 }
 
-.item__delete--btn {
+.item__delete__btn {
     font-size: 22px;
     background: none;
     border: none;
