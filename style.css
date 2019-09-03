@@ -232,13 +232,13 @@ h2 {
 }
 
 .income .item__value,
-.income .item__delete--btn {
+.income .item__delete__btn {
     color: #28B9B5;
 }
 
 .expenses .item__value,
 .expenses .item__percentage,
-.expenses .item__delete--btn {
+.expenses .item__delete__btn {
     color: #FF5049;
 }
 
